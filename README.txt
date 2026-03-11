@@ -11,9 +11,9 @@ itself and prints the new value in an infinite loop.
 
     output:
 	5
-	10
-	15
-	20
+ 10
+ 20
+ 80
 	.
 	.
 	.
